@@ -1,9 +1,8 @@
-## Hi there 👋
-
-<!--
-**chrishalkias/chrishalkias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/chrishalkias/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+there" alt="Chris Chalkias" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+Gitub" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
