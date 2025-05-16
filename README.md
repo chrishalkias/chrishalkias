@@ -31,12 +31,14 @@ More with https://badgen.net/
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=chrishalkias)
 
-
-
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrishalkias&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrishalkias&theme=github-compact)
+
+
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=chrishalkias)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### 🥸 Heres a random joke
 ![Jokes](https://readme-jokes.vercel.app/api?theme=default)
