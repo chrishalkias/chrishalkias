@@ -1,7 +1,23 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!;Welcome" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋!;Welcome+to+my+Github" alt="Typing SVG" /></a>
 
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chrishalkias)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!--
+#Achievements
+
+![Achievements](https://badges.pufler.dev/achievements/chrishalkias)
+-->
+# 👋 Hi, I'm [Your Name]
+[![Arctic Code Vault](https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blue)](https://github.com/USERNAME)
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-2-yellow)](https://github.com/USERNAME)
 <!--
 - 🔭 I ’m currently working on ...
 - 🌱 I’m currently learning ...
