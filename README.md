@@ -54,8 +54,13 @@ More with https://badgen.net/
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chrishalkias)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<div align="center">
+ 
 ### 🥸 Heres a random joke
+ 
 ![Jokes](https://readme-jokes.vercel.app/api?theme=default)
+
+</div>
 
 
 
