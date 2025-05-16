@@ -15,9 +15,7 @@
 
 ![Achievements](https://badges.pufler.dev/achievements/chrishalkias)
 -->
-# 👋 Hi, I'm [Your Name]
-[![Arctic Code Vault](https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blue)](https://github.com/USERNAME)
-[![Pull Shark](https://img.shields.io/badge/Pull_Shark-2-yellow)](https://github.com/USERNAME)
+
 <!--
 - 🔭 I ’m currently working on ...
 - 🌱 I’m currently learning ...
