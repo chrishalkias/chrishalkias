@@ -47,15 +47,13 @@
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game
 - ⛓️ [QRL-RL-GNN](https://github.com/chrishalkias/QRN-RN-GNN) – Solving quantum repeater networks using reinforcement learning and graph neural networks
 
+<!--
 ### 🏆 Github Stats
-
-<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=chrishalkias) -->
 <div align="center">
-  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrishalkias&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
-
+-->
+<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=chrishalkias) -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrishalkias&theme=github-compact)
 
 
