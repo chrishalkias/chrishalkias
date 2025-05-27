@@ -32,7 +32,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 <!--More with https://badgen.net/-->
 </div>
-
+<!--
 ### ℹ️ About
 - 🔭 Currently working on reinforcement learning for quantum networks
 - 🌱 I’m currently learning how to make my coding more efficient
@@ -41,7 +41,7 @@
 - 💬 Ask me about anything quantum
 - 📫 How to reach me: chalkias at lorentz.leidenuniv.nl
 - ⚡ Fun fact: The brain uses around 20Watts to operate and surpasses the complexity of -MW demanding- ANNs
-
+-->
 
 ### 🔬 Featured Projects
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game
