@@ -25,8 +25,8 @@
 - 🔭 Currently working on reinforcement learning for quantum networks
 - 📫 How to reach me: chalkias at lorentz.leidenuniv.nl
 - ⚡ Fun fact: The brain uses around 20Watts to operate and surpasses the complexity of -MW demanding- ANNs
-- <!-- - 🌱 I’m currently learning how to make my coding more efficient -->
 - 👯 I’m looking for exciting opportunities in academia/industry
+<!-- - 🌱 I’m currently learning how to make my coding more efficient -->
 
 ### My Skills
 <div align="center">
