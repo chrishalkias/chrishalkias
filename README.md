@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 <pre style="font-family: monospace; font-size: 14px; line-height: 1.2em; overflow-x: hidden;">
  ██████╗██╗  ██╗██████╗ ██╗███████╗     ██████╗██╗  ██╗ █████╗ ██╗     ██╗  ██╗██╗ █████╗ ███████╗
 ██╔════╝██║  ██║██╔══██╗██║██╔════╝    ██╔════╝██║  ██║██╔══██╗██║     ██║ ██╔╝██║██╔══██╗██╔════╝
@@ -8,14 +8,28 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
 </pre>
 </div>
+-->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+👋!;Welcome+to+my+Github;This+is+a+work+in+progress" alt="Typing SVG" /></a>
+</p>
 
 
 <div align="center">
-  
+ 
 [<img src="https://img.icons8.com/color/48/linkedin.png" width="30">](https://www.linkedin.com/in/chris-chalkias-a9b683257/)
 [<img src="https://img.icons8.com/color/FF0000/github.png" width="30">](https://github.com/chrishalkias/chrishalkias/)
+
+</div>
+
+### About me
+- 🔭 Currently working on reinforcement learning for quantum networks
+- 📫 How to reach me: chalkias at lorentz.leidenuniv.nl
+- ⚡ Fun fact: The brain uses around 20Watts to operate and surpasses the complexity of -MW demanding- ANNs
+- <!-- - 🌱 I’m currently learning how to make my coding more efficient -->
+- 👯 I’m looking for exciting opportunities in academia/industry
+
+### My Skills
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -32,16 +46,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 <!--More with https://badgen.net/-->
 </div>
-<!--
-### ℹ️ About
-- 🔭 Currently working on reinforcement learning for quantum networks
-- 🌱 I’m currently learning how to make my coding more efficient
-- 👯 I’m looking for exciting opportunities in academia/industry
-- 🤔 I’m looking for help with GNN scaling
-- 💬 Ask me about anything quantum
-- 📫 How to reach me: chalkias at lorentz.leidenuniv.nl
-- ⚡ Fun fact: The brain uses around 20Watts to operate and surpasses the complexity of -MW demanding- ANNs
--->
+
 
 ### 🔬 Featured Projects
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game
