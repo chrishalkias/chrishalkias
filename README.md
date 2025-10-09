@@ -49,8 +49,9 @@
 
 
 ### 🔬 Featured Projects
-- 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game
+- 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game. Quantum repeater chaines are cast into a tabular game of cells and dots
 - ⛓️ [QRL-RL-GNN](https://github.com/chrishalkias/QRN-RL-GNN) – Solving quantum repeater networks using reinforcement learning and graph neural networks
+- 🔢 [NNSTM](https://github.com/chrishalkias/NNSTM) – Analytically and computationally examining the partition function of shallow neural networks.
 
 <!--
 ### 🏆 Github Stats
