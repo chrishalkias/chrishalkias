@@ -14,14 +14,10 @@
 </p>
 
 
-<div align="center">
- 
-[<img src="https://img.icons8.com/color/48/linkedin.png" width="30">](https://www.linkedin.com/in/chris-chalkias-a9b683257/)
-[<img src="https://img.icons8.com/color/FF0000/github.png" width="30">](https://github.com/chrishalkias/chrishalkias/)
 
-</div>
 
 ### About me
+
 - 🔭 Currently working on reinforcement learning for quantum networks
 - 📫 How to reach me: chalkias at lorentz.leidenuniv.nl
 - ⚡ Fun fact: The brain uses around 20Watts to operate and surpasses the complexity of -MW demanding- ANNs
@@ -52,6 +48,12 @@
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network based puzzle game. Quantum repeater chaines are cast into a tabular game of cells and dots
 - ⛓️ [QRL-RL-GNN](https://github.com/chrishalkias/QRN-RL-GNN) – Solving quantum repeater networks using reinforcement learning and graph neural networks
 - 🔢 [NNSTM](https://github.com/chrishalkias/NNSTM) – Analytically and computationally examining the partition function of shallow neural networks.
+
+### Links
+
+[<img src="https://img.icons8.com/color/48/linkedin.png" width="30">](https://www.linkedin.com/in/chris-chalkias-a9b683257/)
+[<img src="https://img.icons8.com/color/FF0000/github.png" width="30">](https://github.com/chrishalkias/chrishalkias/)
+
 
 <!--
 ### 🏆 Github Stats
