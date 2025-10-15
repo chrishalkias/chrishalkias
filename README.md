@@ -50,6 +50,7 @@
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network inspired puzzle game.
 - ⛓️ [QRN-RL-GNN](https://github.com/chrishalkias/QRN-RL-GNN) – Solving quantum repeater networks using Reinforcement Learning and Graph Neural Networks
 - 🔢 [NNSTM](https://github.com/chrishalkias/NNSTM) – Analytically and computationally examining the partition function of shallow neural networks.
+- [open-oscillators-QuTip](https://github.com/chrishalkias/open-oscillator-QuTip) - COmputational examination of open quantum oscillator dynamics
 
 ### Links
 
