@@ -1,4 +1,5 @@
-<!--<div align="center">
+<!--
+<div align="center">
 <pre style="font-family: monospace; font-size: 14px; line-height: 1.2em; overflow-x: hidden;">
  ██████╗██╗  ██╗██████╗ ██╗███████╗     ██████╗██╗  ██╗ █████╗ ██╗     ██╗  ██╗██╗ █████╗ ███████╗
 ██╔════╝██║  ██║██╔══██╗██║██╔════╝    ██╔════╝██║  ██║██╔══██╗██║     ██║ ██╔╝██║██╔══██╗██╔════╝
@@ -9,6 +10,7 @@
 </pre>
 </div>
 -->
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+👋!;Welcome+to+my+Github;This+is+a+work+in+progress" alt="Typing SVG" /></a>
 </p>
@@ -46,7 +48,7 @@
 
 ### 🔬 Featured Projects
 - 🎮 [Qonnect](https://github.com/chrishalkias/qonnect) – A quantum network inspired puzzle game.
-- ⛓️ [QRL-RL-GNN](https://github.com/chrishalkias/QRN-RL-GNN) – Solving quantum repeater networks using Reinforcement Learning and Graph Neural Networks
+- ⛓️ [QRN-RL-GNN](https://github.com/chrishalkias/QRN-RL-GNN) – Solving quantum repeater networks using Reinforcement Learning and Graph Neural Networks
 - 🔢 [NNSTM](https://github.com/chrishalkias/NNSTM) – Analytically and computationally examining the partition function of shallow neural networks.
 
 ### Links
