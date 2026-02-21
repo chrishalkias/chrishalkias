@@ -15,9 +15,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+👋!;Welcome+to+my+Github+🔮" alt="Typing SVG" /></a>
 </p>
 
-
-
-
 ### About me
 
 _A young magician trying to understand the ways of the self-learning orb_
@@ -45,6 +42,12 @@ _A young magician trying to understand the ways of the self-learning orb_
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 <!--More with https://badgen.net/-->
 </div>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dd2d689a-0cdf-4241-b79f-ed94f4b9c8ac" alt="Image Description" width="400" height="300">
+</p>
+
+
 
 
 ### 🔬 Featured Projects
